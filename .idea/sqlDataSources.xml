@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="87a49b78-60eb-4d9b-90e6-46c524353607" name="postgres@localhost Mapping">
+      <data-sources db="e74b2d14-9de4-4b0f-834f-da8dd11bab91" ddl="0d5b757e-815d-4865-ae25-5ecbe1460eb7" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="0d5b757e-815d-4865-ae25-5ecbe1460eb7" />
+          <option name="name" value="postgres@localhost (DDL)" />
+          <option name="languageId" value="PostgreSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/air_travel.ddl" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
